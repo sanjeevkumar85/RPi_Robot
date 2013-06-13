@@ -11,8 +11,8 @@
 #define LEFT 0x03
 #define RIGHT 0x04
 #define Ctrl_Cmd 0x01
-#define LEFT_SIDE 0x02
-#define RIGHT_SIDE 0x03
+#define LEFT_SIDE 0x03
+#define RIGHT_SIDE 0x02
 #define INVALID_DISTANCE 0xff
 #define CHANGE_ANGLE 0x01
 #define AUTO_MODE 0x05
